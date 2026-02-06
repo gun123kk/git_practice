@@ -5,6 +5,8 @@
 
 [OEMInf]
 VerifyMark="SunplusIT Integrated Camera"
+gggg
+
 
 [Version]
 signature="$CHICAGO$"
@@ -23,7 +25,7 @@ WindowsHello = true
 
 [SourceDisksNames]
 1 = %DiskName%,,,""
-
+dddd
 [SourceDisksFiles]
 SPITIRDevMft.dll   = 1
 SPITIRDevMft64.dll =1
