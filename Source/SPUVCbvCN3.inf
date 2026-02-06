@@ -1,3 +1,5 @@
+hello
+
 ; Localized     11/02/2018 18:00 (GMT+08:00) 5.0.18.34 SPUVCbvCN3.inf 
 ; Video Capture Driver installation information 
 ; Copyright (c) 2012-2018 Sunplus Innovation Tech 
@@ -59,7 +61,7 @@ CopyFiles = SPIT.CopyDmft32
 AddReg    = SPITDMFT_RegisterDlls_32
 PreferDeviceInfo=1
 
-[SPUVCb.Device_x64.NTamd64]
+[SPUVCb.Device_x63334.NTamd64]
 Include   = usbvideo.inf
 Needs     = usbvideo.NT
 CopyFiles = SPIT.CopyDmft64
