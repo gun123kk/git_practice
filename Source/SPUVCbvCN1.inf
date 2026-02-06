@@ -11,11 +11,8 @@ signature="$CHICAGO$"
 Class=Camera
 ClassGuid={ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
 Provider=%ProviderName%
-DriverVer=11/02/2018,5.0.18.34
-CatalogFile=SPUVCB.cat
 
 [SignatureAttributes]
-SpITDevMft.dll   = SignatureAttributes.WindowsHello
 SpITDevMft64.dll = SignatureAttributes.WindowsHello
 
 [SignatureAttributes.WindowsHello]
